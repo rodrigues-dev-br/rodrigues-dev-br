@@ -1,0 +1,46 @@
+{
+  "slug": "04-entendendo-apis",
+  "title": "Entendendo APIs REST em 5 Minutos (De Verdade!)",
+  "author": "Rodrigues",
+  "date": "05 de Outubro, 2025",
+  "content": [
+    {
+      "type": "paragraph",
+      "value": "Você ouve o termo 'API' em todo lugar, mas ainda não tem certeza do que significa? Vamos desmistificar isso de uma vez por todas. API significa 'Interface de Programação de Aplicações'."
+    },
+    {
+      "type": "heading",
+      "value": "A Analogia do Restaurante"
+    },
+    {
+      "type": "paragraph",
+      "value": "Imagine que você está em um restaurante. Você (o 'cliente' ou 'aplicação') quer um prato. A cozinha (o 'servidor' ou 'sistema') é quem prepara o prato. Você não vai até a cozinha pegar os ingredientes e cozinhar. Quem faz essa ponte é o garçom. Você faz um pedido claro ao garçom, ele leva para a cozinha, e depois traz o prato pronto para você."
+    },
+    {
+      "type": "image",
+      "src": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=1974&auto=format&fit=crop",
+      "alt": "Chef preparando um prato na cozinha"
+    },
+    {
+      "type": "paragraph",
+      "value": "Nessa analogia, **o garçom é a API**. Ele é a interface que recebe seu pedido (requisição), leva para o sistema que sabe como executá-lo, e te devolve uma resposta."
+    },
+    {
+      "type": "heading",
+      "value": "E o que é REST?"
+    },
+    {
+      "type": "paragraph",
+      "value": "REST é um conjunto de regras e boas práticas para construir essas APIs, assim como existem regras de etiqueta para o garçom trabalhar direito. Ele usa os métodos do protocolo HTTP que já conhecemos:"
+    },
+    {
+      "type": "code",
+      "lang": "http",
+      "value": "GET    - para buscar dados (ler o cardápio)\nPOST   - para criar novos dados (fazer um novo pedido)\nPUT    - para atualizar dados existentes (modificar seu pedido)\nDELETE - para remover dados (cancelar um item do pedido)"
+    },
+    {
+      "type": "paragraph",
+      "value": "Simples assim! Da próxima vez que você usar um app que mostra a previsão do tempo, lembre-se: seu app está agindo como um cliente, chamando a 'API do tempo' (o garçom) para buscar os dados do 'servidor de meteorologia' (a cozinha)."
+    }
+  ]
+}

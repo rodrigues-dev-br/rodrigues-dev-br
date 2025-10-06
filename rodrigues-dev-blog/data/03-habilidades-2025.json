@@ -1,0 +1,22 @@
+{
+  "slug": "03-habilidades-2025",
+  "title": "5 Habilidades Essenciais para um Desenvolvedor Além do Código em 2025",
+  "author": "Rodrigues",
+  "date": "04 de Outubro, 2025",
+  "content": [
+    {
+      "type": "paragraph",
+      "value": "O mercado de tecnologia está cada vez mais competitivo. Dominar uma linguagem de programação já não é mais suficiente. As empresas buscam profissionais completos, que agregam valor além do código. Aqui estão 5 habilidades que farão sua carreira decolar."
+    },
+    { "type": "heading", "value": "1. Comunicação Clara e Assíncrona" },
+    { "type": "paragraph", "value": "Com o trabalho remoto se consolidando, saber se comunicar de forma clara por texto (Slack, email, documentação) é vital. Seja conciso, objetivo e saiba documentar suas decisões." },
+    { "type": "heading", "value": "2. Pensamento Crítico e Resolução de Problemas" },
+    { "type": "paragraph", "value": "Qualquer um pode seguir um tutorial. O diferencial é saber decompor um problema complexo, analisar as possíveis soluções e escolher a mais eficiente, pensando em escalabilidade e manutenção." },
+    { "type": "heading", "value": "3. Conhecimento de Negócio" },
+    { "type": "paragraph", "value": "Entenda o produto no qual você está trabalhando. Qual problema ele resolve? Quem são os usuários? Desenvolvedores que entendem do negócio entregam soluções muito mais valiosas." },
+    { "type": "heading", "value": "4. Inteligência Emocional e Colaboração" },
+    { "type": "paragraph", "value": "Saber dar e receber feedback, trabalhar em equipe, ter empatia com os colegas e ser resiliente diante dos desafios. O software é feito por pessoas, para pessoas." },
+    { "type": "heading", "value": "5. Aprendizado Contínuo (Learnability)" },
+    { "type": "paragraph", "value": "A tecnologia muda em um piscar de olhos. A habilidade mais importante não é saber tudo, mas sim ter a capacidade de aprender qualquer coisa de forma rápida e eficiente. Mantenha a curiosidade sempre ativa!" }
+  ]
+}

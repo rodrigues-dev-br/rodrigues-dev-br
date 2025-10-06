@@ -1,0 +1,54 @@
+{
+  "slug": "05-deploy-na-vercel",
+  "title": "Como Coloquei Este Blog no Ar com Vercel em 5 Minutos",
+  "author": "Rodrigues",
+  "date": "06 de Outubro, 2025",
+  "content": [
+    {
+      "type": "paragraph",
+      "value": "Ter um projeto no seu computador é legal, mas o verdadeiro poder está em compartilhá-lo com o mundo. Antigamente, colocar um site no ar era um processo complexo. Hoje, com plataformas como a Vercel, isso se tornou trivial. Vou mostrar exatamente como este blog foi publicado."
+    },
+    {
+      "type": "heading",
+      "value": "Pré-requisitos: Código no GitHub"
+    },
+    {
+      "type": "paragraph",
+      "value": "A Vercel funciona de forma integrada com o Git. O primeiro passo, e mais importante, é ter todo o código do seu projeto (HTML, CSS, JS, etc.) em um repositório no GitHub. Se você ainda não fez isso, crie um repositório e envie seus arquivos."
+    },
+    {
+      "type": "code",
+      "lang": "bash",
+      "value": "# Comandos básicos para enviar seu projeto\ngit init\ngit add .\ngit commit -m \"Versão inicial do blog\"\ngit remote add origin https://github.com/seu-usuario/seu-repositorio.git\ngit push -u origin main"
+    },
+    {
+      "type": "heading",
+      "value": "O Passo a Passo na Vercel"
+    },
+    {
+      "type": "paragraph",
+      "value": "Com o código no GitHub, o resto é incrivelmente simples:"
+    },
+    {
+      "type": "paragraph",
+      "value": "<strong>1. Crie uma Conta:</strong> Acesse vercel.com e crie sua conta usando a opção 'Continue with GitHub'. Isso já faz a integração automática."
+    },
+    {
+      "type": "paragraph",
+      "value": "<strong>2. Importe o Projeto:</strong> No seu dashboard, clique em 'Add New... -> Project'. A Vercel vai listar seus repositórios do GitHub. Encontre o repositório do seu blog e clique em 'Import'."
+    },
+    {
+      "type": "paragraph",
+      "value": "<strong>3. Deploy:</strong> A Vercel é inteligente. Ela vai ver que seu projeto não usa nenhum framework e vai pré-configurar tudo para você. Você não precisa mudar nada. Apenas role a página e clique no botão 'Deploy'."
+    },
+    {
+      "type": "image",
+      "src": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?q=80&w=1964&auto=format&fit=crop",
+      "alt": "Abstração de nuvens de servidores e código"
+    },
+    {
+      "type": "paragraph",
+      "value": "É isso. Em cerca de 30 segundos, a Vercel vai construir seu site e te dar uma URL pública. A melhor parte? A partir de agora, toda vez que você fizer um `git push` para a branch principal do seu repositório, a Vercel automaticamente fará o deploy da nova versão. Mágico, não?"
+    }
+  ]
+}

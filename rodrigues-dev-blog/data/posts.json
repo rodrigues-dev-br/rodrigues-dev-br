@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "05-deploy-na-vercel",
+    "title": "Como Coloquei Este Blog no Ar com Vercel em 5 Minutos",
+    "summary": "Um guia prático e direto para fazer o deploy de projetos estáticos (HTML, CSS, JS) usando a Vercel e o GitHub, sem complicação.",
+    "date": "06 de Outubro, 2025"
+  },
+  {
+    "slug": "04-entendendo-apis",
+    "title": "Entendendo APIs REST em 5 Minutos (De Verdade!)",
+    "summary": "APIs parecem um bicho de sete cabeças? Vou te mostrar de forma simples o que são, como funcionam e por que elas movem o mundo da tecnologia hoje.",
+    "date": "05 de Outubro, 2025"
+  },
+  {
+    "slug": "03-habilidades-2025",
+    "title": "5 Habilidades Essenciais para um Desenvolvedor Além do Código em 2025",
+    "summary": "Saber programar é o básico. Descubra as 'soft skills' e competências que realmente vão te destacar no mercado de tecnologia do futuro.",
+    "date": "04 de Outubro, 2025"
+  },
+  {
+    "slug": "02-ambiente-linux",
+    "title": "Configurando seu Ambiente de Desenvolvimento Linux do Zero",
+    "summary": "Um passo a passo para instalar as ferramentas essenciais, customizar seu terminal e deixar o sistema pronto para a produtividade.",
+    "date": "03 de Outubro, 2025"
+  },
+  {
+    "slug": "01-ola-mundo",
+    "title": "Olá, Mundo! O Ponto de Partida para Rodrigues.Dev",
+    "summary": "O início de tudo. Entenda o propósito deste blog e o que esperar dos próximos conteúdos sobre desenvolvimento, tecnologia e carreira.",
+    "date": "02 de Outubro, 2025"
+  }
+]

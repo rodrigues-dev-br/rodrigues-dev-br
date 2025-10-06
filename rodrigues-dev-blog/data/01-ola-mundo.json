@@ -1,0 +1,29 @@
+{
+  "slug": "01-ola-mundo",
+  "title": "Olá, Mundo! O Ponto de Partida para Rodrigues.Dev",
+  "author": "Rodrigues",
+  "date": "02 de Outubro, 2025",
+  "content": [
+    {
+      "type": "paragraph",
+      "value": "Se você já escreveu uma linha de código na vida, provavelmente começou com um 'Hello, World!'. É uma tradição, um rito de passagem. E nada mais justo do que iniciar este blog da mesma forma. Bem-vindo ao Rodrigues.Dev!"
+    },
+    {
+      "type": "image",
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop",
+      "alt": "Tela com código 'Hello, World!'"
+    },
+    {
+      "type": "heading",
+      "value": "Qual o Objetivo Deste Espaço?"
+    },
+    {
+      "type": "paragraph",
+      "value": "A ideia é simples: criar um repositório de conhecimento prático sobre Análise e Desenvolvimento de Sistemas. Vamos explorar desde os fundamentos da lógica de programação até as arquiteturas mais complexas. O foco será sempre na aplicação prática, no 'como fazer' e, mais importante, no 'porquê fazer' de determinada maneira."
+    },
+    {
+      "type": "paragraph",
+      "value": "Vamos falar sobre algoritmos, estruturas de dados, boas práticas de codificação, ferramentas que aumentam a produtividade e, claro, sobre carreira na área de tecnologia. Este é um espaço para aprender, ensinar e, acima de tudo, evoluir juntos. Sinta-se em casa e vamos codificar!"
+    }
+  ]
+}

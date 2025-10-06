@@ -1,0 +1,42 @@
+{
+  "slug": "02-ambiente-linux",
+  "title": "Configurando seu Ambiente de Desenvolvimento Linux do Zero",
+  "author": "Rodrigues",
+  "date": "03 de Outubro, 2025",
+  "content": [
+    {
+      "type": "paragraph",
+      "value": "Um ambiente de desenvolvimento bem configurado é a base para a produtividade. No mundo Linux, as possibilidades de customização são infinitas. Neste guia, vamos passar pelos passos essenciais para deixar seu sistema pronto para qualquer desafio de programação."
+    },
+    {
+      "type": "heading",
+      "value": "1. O Terminal é seu Melhor Amigo"
+    },
+    {
+      "type": "paragraph",
+      "value": "Primeiro, vamos garantir que o terminal esteja turbinado. Recomendo instalar o Zsh com o Oh My Zsh para ter autocompletar, temas e plugins incríveis. Use o gerenciador de pacotes da sua distro (apt, dnf, pacman):"
+    },
+    {
+      "type": "code",
+      "lang": "bash",
+      "value": "# Para sistemas baseados em Debian/Ubuntu\nsudo apt update\nsudo apt install zsh\n\n# Instalação do Oh My Zsh\nsh -c \"$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)\""
+    },
+    {
+      "type": "heading",
+      "value": "2. Editor de Código ou IDE"
+    },
+    {
+      "type": "paragraph",
+      "value": "A escolha aqui é pessoal, mas o Visual Studio Code se tornou um padrão de mercado pela sua versatilidade e enorme ecossistema de extensões. Baixe o pacote .deb ou .rpm diretamente do site oficial e instale."
+    },
+    {
+      "type": "image",
+      "src": "https://images.unsplash.com/photo-1624996752380-8ec242e0f85d?q=80&w=1974&auto=format&fit=crop",
+      "alt": "Interface do Visual Studio Code"
+    },
+    {
+      "type": "paragraph",
+      "value": "Não se esqueça de instalar extensões essenciais como 'Prettier', 'ESLint' e 'Docker' para facilitar seu dia a dia. Com isso, seu ambiente já está pronto para a maioria dos projetos!"
+    }
+  ]
+}

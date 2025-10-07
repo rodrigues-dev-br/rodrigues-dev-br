@@ -1,5 +1,11 @@
 [
   {
+  "slug": "06-python-ideal-iniciantes",
+  "title": "Por que Python é a Melhor Linguagem para Começar a Programar?",
+  "summary": "Um guia completo para iniciantes em Python, abordando desde sua definição e os motivos de ser ideal para começar a programar, até sua enorme versatilidade em áreas como Inteligência Artificial, Ciência de Dados, desenvolvimento web e automação.",
+  "date": "07 de Outubro, 2025"
+  },
+  {
     "slug": "05-deploy-na-vercel",
     "title": "Como Coloquei Este Blog no Ar com Vercel em 5 Minutos",
     "summary": "Um guia prático e direto para fazer o deploy de projetos estáticos (HTML, CSS, JS) usando a Vercel e o GitHub, sem complicação.",

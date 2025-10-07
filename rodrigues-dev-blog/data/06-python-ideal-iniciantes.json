@@ -75,9 +75,23 @@
         {
             "type": "paragraph",
             "value": "> Fintechs: O setor financeiro é outro campo de intensa aplicação para o Python. A linguagem permite a execução de diversas tarefas, como análise quantitativa, modelagem de risco, negociação algorítmica e o trabalho com tecnologias emergentes, incluindo blockchain e criptomoedas."
+        },
+        {
+            "type": "paragraph",
+            "value": "Chegamos ao final deste guia, e a mensagem é clara: Python não é apenas uma linguagem de programação, é a ponte perfeita para o seu futuro como desenvolvedor. Vimos que sua sintaxe amigável derruba as barreiras iniciais e permite aquelas 'pequenas' vitórias que motivam a continuar, enquanto seu poder como um verdadeiro 'canivete suíço' abre portas para as áreas mais inovadoras da tecnologia."
+        },
+        {
+            "type": "paragraph",
+            "value": "Contudo, nenhum guia substitui a prática. O verdadeiro aprendizado começa agora. Seu próximo passo não é ler mais um artigo, mas sim:"
+        },
+        {
+            "type": "paragraph",
+            "value": "1. Instalar o Python no seu computado 2. Escrever seu primeiro programa: o famoso print('Olá, Mundo!'). 3. Escolher uma pequena tarefa do seu dia a dia e tentar automatizá-la."
+        },
+        {
+            "type": "paragraph",
+            "value": "Não tenha medo de errar ou pesquisar. Cada linha de código que você escreve, por mais simples que seja, é um passo sólido na sua nova jornada. Bem-vindo ao universo Python!"
         }
-
-
     ]
 
 }

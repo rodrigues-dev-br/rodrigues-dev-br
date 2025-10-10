@@ -247,7 +247,7 @@
     },
     {
       "type": "code",
-      "lang": "code",
+      "lang": "python",
       "value": "idade = 30\nquantidade_itens = 10"
     },
     {

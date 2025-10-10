@@ -1,5 +1,11 @@
 [
   {
+    "slug": "07-guia-completo-python-iniciantes",
+    "title": "Configuração do Ambiente de Desenvolvimento: E agora? Como usar Python?",
+    "summary": "Aprenda a programar em Python com o nosso guia passo a passo para iniciantes. Abordamos desde a configuração do ambiente até os conceitos fundamentais, projetos práticos e como se juntar à comunidade de desenvolvedores.",
+    "date": "10 de Outubro, 2025"
+  },
+  {
   "slug": "06-python-ideal-iniciantes",
   "title": "Por que Python é a Melhor Linguagem para Começar a Programar?",
   "summary": "Um guia completo para iniciantes em Python, abordando desde sua definição e os motivos de ser ideal para começar a programar, até sua enorme versatilidade em áreas como Inteligência Artificial, Ciência de Dados, desenvolvimento web e automação.",

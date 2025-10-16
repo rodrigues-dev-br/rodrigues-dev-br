@@ -1,5 +1,11 @@
 [
   {
+    "slug": "08-guia-completo-de-linux-para-iniciantes",
+    "title": "Guia Completo de Linux Para Iniciantes",
+    "summary": "Explore o mundo do Linux, desde o Kernel e o projeto GNU até suas vantagens como estabilidade e segurança. Aprenda sobre distribuições como Ubuntu, ambientes de desktop como GNOME e o poder da linha de comando. Este guia prático também compara o Linux com Windows/macOS e mostra como começar sua jornada com segurança.",
+    "date": "16 de Outubro, 2025"
+  },
+  {
     "slug": "07-guia-completo-python-iniciantes",
     "title": "Configuração do Ambiente de Desenvolvimento: E agora? Como usar Python?",
     "summary": "Aprenda a programar em Python com o nosso guia passo a passo para iniciantes. Abordamos desde a configuração do ambiente até os conceitos fundamentais, projetos práticos e como se juntar à comunidade de desenvolvedores.",
